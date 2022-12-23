@@ -4,4 +4,4 @@ to number your days please use a constant as the day, it is an integer in Python
 
 How to use aocinput.py:
 
-the function that is commonly used is called aocday. it contains 3 parameters: the day, importing it as list, or lines. setting the second parameter to true will cause the data to come out in a list, setting the third parameter to true and the second parameter to false will cause the data to come out in lines, if both are set to false or nothing is placed, then it will come out in a single string.
+the function that is commonly used is called aocday. it contains 3 parameters: the day, importing it as list, or lines. setting the second parameter to true will cause the data to come out in a list, setting the third parameter to true and the second parameter to false will cause the data to come out in lines, if both are set to false nothing is placed, then it will come out in a single string.
